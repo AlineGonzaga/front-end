@@ -1,27 +1,25 @@
-# AppSite
+## FRONT END
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
+Camada responsável por consumir a restful, exibir e editar dados em um página html.
 
-## Development server
+Tecnologia utilizada:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Node versão: v10.15.3 
 
-## Code scaffolding
+NPM versão : v6.4.1
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+PrimeNG para estilização dos componentes para exibição
 
-## Build
+IDE Microsoft Visual Code
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+O sistema faz os seguintes itens com sucesso:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Cadastro de uma reserva
 
-## Running end-to-end tests
+Exclusão de um item da lista de reservas
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Listagem das reservas
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Edição não completada...
